@@ -9,8 +9,8 @@ Este projeto detecta, conta e anota veículos e outros objetos em imagens usando
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-cd SEU_REPO
+git clone https://github.com/goncaloam132/ComputerVision.git
+cd ComputerVision
 pip install -r requirements.txt
 ```
 
